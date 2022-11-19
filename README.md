@@ -5,7 +5,7 @@ This repository contains a Python 3.6 implementation of the experiments
 in [this paper](https://arxiv.org/abs/2211.05408):
 
     Controlling Moments with Kernel Stein Discrepancies
-    Heishiro Kanagawa, Arthur Gretton, Lester Mackey,
+    Heishiro Kanagawa, Arthur Gretton, Lester Mackey
     https://arxiv.org/abs/2211.05408
 
 ## Installation
