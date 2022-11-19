@@ -13,7 +13,7 @@ in [this paper](https://arxiv.org/abs/2211.05408):
 Use the `pip` command to install the package.
 It will be necessary to edit out codes for replicating the experiment results; we therefore recommend to install the package as follows:
 
-1. Clone the repository with  `git clone git@github.com:noukoudashisoup/ksd-moment.git`
+1. Clone the repository with  `git clone https://github.com/noukoudashisoup/ksd-moment.git`
 2. In the cloned directory (after `cd` ), run `pip install -e .`
 
 ## Requirements
