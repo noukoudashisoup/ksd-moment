@@ -19,7 +19,12 @@ It will be necessary to edit out codes for replicating the experiment results; w
 ## Requirements
 
 The package requires `numpy`, `scipy` (these will be installed when you install the package).
+We demonstrate our experiments using jupyter notebooks; please install `jupyter`.
 
 We require `pytorch>=1.10.1` and refer to [the official page](https://pytorch.org/) for installation.
 We also require the `scem` package. This can be obtained from [its git
   repository](https://github.com/noukoudashisoup/score-EM).
+
+## Reproduce experimental results
+
+All experiments are summarised as jupyter notebooks and can be found in `ipynb`.
